@@ -1,0 +1,3 @@
+Renn,Shitty Swordsword,85,150
+Renn,Cheap Dagger,23,80
+Shalini,Greatsword,95,200
